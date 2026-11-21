@@ -1,0 +1,6 @@
+{
+  "name": "DECO Reader — U24EC304 Study Companion",
+  "description": "Interactive 5-unit study companion for Digital Electronics and Computer Organization (U24EC304) featuring structured unit notes, four hardware simulators, unit quizzes, a timed mock exam, and revision flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
